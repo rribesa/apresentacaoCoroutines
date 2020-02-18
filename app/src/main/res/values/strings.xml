@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CoroutinesApresentacao</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dispathcer_main">DISPATHCER MAIN</string>
+    <string name="dispathcer_io">DISPATHCER IO</string>
+    <string name="dispathcer_default">DISPATHCER DEFAULT</string>
+    <string name="dispathcer_unconfined">DISPATHCER UNCONFINED</string>
+    <string name="exibe_loading">EXIBE LOADING</string>
+</resources>

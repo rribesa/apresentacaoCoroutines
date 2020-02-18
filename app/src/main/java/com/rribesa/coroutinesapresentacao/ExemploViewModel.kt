@@ -39,6 +39,8 @@ class ExemploViewModel : ViewModel() {
     fun exemploCoroutineScope() {
         CoroutineScope(Dispatchers.Main + supervisorJob).launch {
             loadingState.postValue(View.VISIBLE)
+            delay(500)
+            loadingState.postValue(View.GONE)
         }
     }
 
